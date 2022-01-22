@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Blazor.WA.API.Three_tierA.AAD.DL.DatabaseContext</RootNamespace>
+  </PropertyGroup>
+
+</Project>
